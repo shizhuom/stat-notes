@@ -1,5 +1,5 @@
 ---
-title: Central Limit Theorum
+title: Central Limit Theorem
 parent: Probability
 nav_order: 1
 ---
